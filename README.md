@@ -2,7 +2,7 @@
 
 EXPANSION model for Type Ia Supernova Light Curve Fitting version 2022
 
-The first version of this model was presented in 2021 in the Masters Dissertation of João Paulo Correia de França supervised by Dr. Ribamar Rondon de Rezende dos Reis at the Federal University of Rio de Janeiro, entitled "Investigando o ajuste de curva de luz de supernovas Ia".
+The first version of this model was presented in 2021 in the Masters Dissertation of João Paulo Correia de França, MSc, supervised by Dr. Ribamar Rondon de Rezende dos Reis, PhD, at the Federal University of Rio de Janeiro, entitled "Investigando o ajuste de curva de luz de supernovas Ia".
 
 Here we present both the training and the testing of the EXPANSION model, this model proposes a modification in the Type Ia Supernova empirical flux description proposed in SALT2 (Spectral Adaptive Light Curve Template 2, see Betoule 2014 for last SALT2 training).
 
