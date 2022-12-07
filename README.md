@@ -15,7 +15,7 @@ In this repository we present the pre-processing steps applied to the SNFactory 
 
 ## Python
 
-**Requirements**
+**Requirements:**
 
 Partial list of requirements: [requirements](https://github.com/CassiaNascimento/EXP_model_for_SN_Ia_LC_fitting/blob/main/requirements.txt)
 
